@@ -1,0 +1,5 @@
+Bir film/dizi izleme uygulamasının projesi geliştirildi.
+Film, film türü(genre), yönetmen nesneleri oluşturuldu.
+Katmanlı mimaride temel veri tabanı işlemleri (CRUD) SOLID prensiplerine uygun olarak yazıldı.
+Code first kullanılarak veri tabanı oluşturuldu.
+DTO tabloları kullanıldı.
